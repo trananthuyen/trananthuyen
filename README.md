@@ -14,3 +14,5 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=trananthuyen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/adorable-white-cat-typing-on-keyboard-mcx89p34ojfj25fh.gif">
+
