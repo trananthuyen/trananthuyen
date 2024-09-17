@@ -11,8 +11,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trananthuyen&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trananthuyen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<img align="right" alt="coding" width="100" hight="50" src="https://gifdb.com/images/high/adorable-white-cat-typing-on-keyboard-mcx89p34ojfj25fh.gif">
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=trananthuyen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/adorable-white-cat-typing-on-keyboard-mcx89p34ojfj25fh.gif">
+
 
